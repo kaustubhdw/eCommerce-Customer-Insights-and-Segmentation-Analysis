@@ -63,27 +63,7 @@ The project utilizes three datasets:
    jupyter notebook Kaustubh_Dwivedi_Clustering.ipynb
    ```
 
-## Usage
 
-For command-line execution:
-
-- **Exploratory Data Analysis**:
-
-  ```sh
-  python run_eda.py
-  ```
-
-- **Lookalike Model**:
-
-  ```sh
-  python run_lookalike.py
-  ```
-
-- **Customer Segmentation**:
-
-  ```sh
-  python run_clustering.py
-  ```
 
 ## Contributing
 
